@@ -6,7 +6,7 @@ and outputs the corresponding letter grade based on a predefined grading scale.
 
  Team Members
 - Paul Lubwika - Driver - 2025559522
--  Temwani Singoi - Navigator -
+-  Temwani Singoi - 2025557990 -
 
 ## Grading Scale
 | Score Range | Grade |
