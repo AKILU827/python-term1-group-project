@@ -1,4 +1,3 @@
-
 # Grade System Program
 
 # Accept 5 marks from the user
@@ -11,6 +10,7 @@ for i in range(5):
             mark = float(input(f"Enter mark {i+1}: "))
             if 0 <= mark <= 100:
                 marks.append(mark)
+                i += 1
                 break
             else:
                 print("Please enter a mark between 0 and 100")
